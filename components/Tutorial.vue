@@ -21,7 +21,6 @@
 }
 .parents1 {
   display: flex;
-
   padding-left: 23px;
 }
 .child {
